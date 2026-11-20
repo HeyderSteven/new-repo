@@ -1,0 +1,27 @@
+body{
+    min-width: 1280px;
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+.header{
+    min-height: 720px;
+    max-height: 800px;
+    height: 100vh;
+    
+    background-color: black;
+}
+
+.header__title{
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+    font-weight: 800;
+}
+
+p{
+    color: gray;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-style: italic;
+}
